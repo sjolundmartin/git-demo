@@ -1,3 +1,4 @@
 * Init
 * A bugfix
 * Some other changes
+* Final bugfixes
